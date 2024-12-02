@@ -195,3 +195,6 @@ INSERT INTO vendas (id, data_venda, id_produto, id_cliente, quantidade, valor_un
 6. Ao simular o carregamento para um "bucket S3", considere como você organizaria eficientemente estes 500 registros em uma estrutura de partições por ano/mês/dia.
 
 Boa sorte!
+
+
+[LINK DA RESPOSTA]
